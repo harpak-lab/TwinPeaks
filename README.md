@@ -20,7 +20,8 @@ Here are the code and scripts used to produce the analysis for "No Evidence for 
 ## Script documentation
 Main code is contained in R scripts.
 The Slurm script listed as script 2 is a wrapper which run R code over multiple files (e.g., multiple ancestries or tissue types). The slurm file is listed with a number (2) and the R scripts run by this slurm file is listed as number and letter (2a).
-Scripts 3 and 4 each have 2 versions, one for all non-gonad tissues and one for gonads. The gonad version is listed as 3a and 4a respectively
+Scripts 3 and 4 each have 2 versions, one for all non-gonad tissues and one for gonads. The gonad version is listed as 3a and 4a respectively.
+
 All final figures were produced using ```TwinPeaksFigs_Rev_FINAL.R```.
 
 ### 1.ChengRepTwinPeaks_Anc.R
